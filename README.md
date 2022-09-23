@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lordrin, I graduated with a bachelor's degree in applied computer science
-- 👀 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 looking for opportunities as a Junior Developer
 
+- I am working with React, Ionic and Native mobile applications
 - 🌱 I’m currently learning c++ and OpenGL
 
 <!---
